@@ -1,2 +1,2 @@
 # hello-word
-Just another repository
+Hi, Adil here, I am new to the GitHub and this is my first repository
